@@ -70,8 +70,10 @@ Generated outputs:
 
 The following screenshots are included to document the workflow:
 - GitHub Codespaces dashboard
-  
+  <img width="1920" height="1080" alt="Screenshot 2025-12-19 124100" src="https://github.com/user-attachments/assets/ea475d63-c496-404b-93b7-00ed2a00391c" />
+
 - RISC-V build and execution flow
+  
 - Spike simulator output
 - BRAM HEX file generation
 - VSD RISC-V welcome banner
