@@ -25,21 +25,6 @@ The entire setup is hosted on **GitHub Codespaces**, enabling a cloud-based Linu
 
 ---
 
-## 📂 Project Structure
-
-images/  
-samples/  
- ├── sum1ton.c  
- ├── sum1ton.o  
- ├── Makefile  
- └── load.S  
-vsdfpga_labs/  
- └── basicRISCv/  
-     └── Firmware/  
-README.md  
-
----
-
 ## 🧪 RISC-V Program Execution
 
 A sample C program is used to compute the **sum of numbers from 1 to N**, validating both native and RISC-V execution flows.
@@ -85,6 +70,7 @@ Generated outputs:
 
 The following screenshots are included to document the workflow:
 - GitHub Codespaces dashboard
+  
 - RISC-V build and execution flow
 - Spike simulator output
 - BRAM HEX file generation
@@ -96,10 +82,4 @@ The following screenshots are included to document the workflow:
 
 This project demonstrates a **complete end-to-end RISC-V development pipeline**, from cloud-based environment setup to FPGA-ready firmware generation, using industry-standard open-source tools.
 
----
 
-## 📚 References
-
-- https://github.com/vsdip/vsd-riscv2  
-- https://github.com/github/codespaces  
-- https://github.com/riscv
