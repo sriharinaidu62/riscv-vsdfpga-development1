@@ -34,7 +34,7 @@ A sample C program is used to compute the **sum of numbers from 1 to N**, valida
 - Cross-compile for RISC-V
 - Execute on Spike simulator
 
-Commands used:
+**Commands used:**
 gcc sum1ton.c  
 ./a.out  
 
@@ -69,19 +69,19 @@ Generated outputs:
 ## 🖼️ Screenshots
 
 The following screenshots are included to document the workflow:
-- GitHub Codespaces dashboard
+- **GitHub Codespaces dashboard**
   <img width="1920" height="1080" alt="Screenshot 2025-12-19 124100" src="https://github.com/user-attachments/assets/ea475d63-c496-404b-93b7-00ed2a00391c" />
 
-- RISC-V build and execution flow
+- **RISC-V build and execution flow**
   <img width="1920" height="1080" alt="Screenshot 2025-12-18 191201" src="https://github.com/user-attachments/assets/2a49394a-1bab-4c01-9dc4-21546f586e73" />
 
-- Spike simulator output
+- **Spike simulator output**
   <img width="1919" height="1079" alt="Screenshot 2025-12-18 170637" src="https://github.com/user-attachments/assets/76535b27-5f71-4de2-bf34-c800ff177f26" />
 
-- BRAM HEX file generation
+- **BRAM HEX file generation**
   <img width="1920" height="1080" alt="Screenshot 2025-12-18 191234" src="https://github.com/user-attachments/assets/ac7e5a69-9a71-4e61-b0dc-620b93f8596e" />
 
-- VSD RISC-V welcome banner
+- **VSD RISC-V welcome banner**
 <img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/74beba95-fea1-483b-bae3-2a521224edbf" />
 
 ---
